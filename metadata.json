@@ -1,0 +1,6 @@
+{
+  "name": "선생님 마음샘",
+  "description": "지친 교사를 위한 AI 따뜻한 마음 상담, 스트레스 진단, 마음 휴식 및 교사 응원 커뮤니티",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
